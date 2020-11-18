@@ -1,6 +1,6 @@
 import telebot  # pip3 install PyTelegramBotAPI
 
-bot = telebot.TeleBot('')
+bot = telebot.TeleBot('1212464853:AAFo0jcVRi71sggAK0RD8c7aw3LMYB4Lp-w')
 
 
 # text
